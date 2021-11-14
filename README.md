@@ -1,2 +1,2 @@
-# Jquery_Water_Rpple_Effect
-Jquery Water Rpple Effect
+# Jquery_Water_Ripple_Effect
+Jquery Water Ripple Effect
